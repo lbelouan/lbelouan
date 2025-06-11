@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/641b22ba-11dc-4836-9446-c9ce1d89390d)- 👋 Hi, I’m @lbelouan
+- 👋 Hi, I’m @lbelouan
 
 - 🎓 I’m currently an engineering student at ENSEEIHT (Toulouse), majoring in Artificial Intelligence and Data Science. 
 
