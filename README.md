@@ -23,7 +23,7 @@
 
     - LinkedIn: https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/elouan-le-bizec
 
-    - Portfolio: bientôt disponible
+    - Portfolio: Coming soon !
 
 - 👉 Check out my portfolio to learn more about my background and projects.
 
