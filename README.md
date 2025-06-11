@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lbelouan
+![image](https://github.com/user-attachments/assets/641b22ba-11dc-4836-9446-c9ce1d89390d)- 👋 Hi, I’m @lbelouan
 
 - 🎓 I’m currently an engineering student at ENSEEIHT (Toulouse), majoring in Artificial Intelligence and Data Science. 
 
@@ -19,11 +19,11 @@
 
 - 📫 Feel free to reach out:
 
-    - Email: [your.email@example.com]
+    - Email: elouanlebizec.contact@gmail.com
 
-    - LinkedIn: https://www.linkedin.com/in/yourprofile
+    - LinkedIn: https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/elouan-le-bizec
 
-    - Portfolio: https://yourportfolio.com
+    - Portfolio: bientôt disponible
 
 - 👉 Check out my portfolio to learn more about my background and projects.
 
